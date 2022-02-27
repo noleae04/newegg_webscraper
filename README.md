@@ -3,7 +3,7 @@ Web scraper that parses through information from newegg graphics cards
 
 # Functionality
 
-All you have to do is run the program with Python 3 and it will produce a .csv file that you can open in a spreadsheet processor
+Run the program with Python 3 and it will produce a .csv file that you can open in a spreadsheet processor (e.g. Excel, Openoffice Calc)
 
 # Bugs
 
